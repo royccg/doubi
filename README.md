@@ -184,7 +184,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/mtproxy_go.sh && chmod +x mtproxy_go.sh && bash mtproxy_go.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/royccg/doubi/master/mtproxy_go.sh && chmod +x mtproxy_go.sh && bash mtproxy_go.s
 ```
 
 ---
